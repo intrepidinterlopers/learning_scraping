@@ -1,3 +1,7 @@
+"""
+Scrapy tutorial from https://learn.scrapinghub.com/scrapy/
+Extracting all the quotes on a page.
+"""
 import scrapy
 
 

@@ -1,3 +1,7 @@
+"""
+Scrapy tutorial from https://learn.scrapinghub.com/scrapy/
+Extracting a single quote & info.
+"""
 import scrapy
 import json
 from pprint import pprint

@@ -1,3 +1,7 @@
+"""
+Scrapy tutorial from https://learn.scrapinghub.com/scrapy/
+Extracting author info by following hyperlinks.
+"""
 import scrapy
             
             
