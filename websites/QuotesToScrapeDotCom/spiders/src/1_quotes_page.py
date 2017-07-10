@@ -7,7 +7,7 @@ import scrapy
 
 class QuotesSpider(scrapy.Spider):
     name = 'quotes'
-    start_urls = ['http://quotes.toscrape.com']
+    start_urls = ['http://quotes.toscrape.com/']
     
     def parse(self, response):
         self.log(' '.join(["URL visited:", response.url]))
